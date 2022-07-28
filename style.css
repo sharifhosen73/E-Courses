@@ -1,0 +1,21 @@
+.cover-background-1{
+    background-image: url(./images/cover/cover-1.png);
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+}
+.cover-background-2{
+    background-image: url(./images/cover/cover-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+}
+.cover-background-3{
+    background-image: url(./images/cover/cover-3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+}
+.slider-header{
+    font-size: 60px;
+}
